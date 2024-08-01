@@ -1,0 +1,93 @@
+hello? || hello_how_are_you
+goodbye? || goodbye_how_are_you
+what is the time? || the time is past your bedtime
+what is the date? || time to get a calendar
+what is the month? || time to get a monthometer
+when am I going to finish building this flash card app? || I dont know!
+does this do chinese? || were about to find out!
+just tested it does it do chinese? || .... No! :(
+What is the capital of China? || The capital of China is Beijing.
+What is the capital of Spain? || The capital of spain is Madrid.
+What is the capital of Kenya? || The capital of Kenya is Niarobi
+What year did World War 1 start? || World War 1 started in 1914
+What is the population of London? || Around 10 million
+What programming langauge was this application made with? || C++
+What GUI library was this made with? || This application was made with ImGui.
+What is 126 + 256? || 126 + 256 is 382.
+What is the most used programming language in the world? || Javascript
+What is the second most popular programming language in the world? || Python
+What is the capital of England || London
+What are some similiar programming languages to C++? || C# and C
+Name some components of the eye || Schera, Lens, Ciliary muscles
+What is another name for godbolt.org? || Compiler Explorer
+What is 49 / 7? || 7
+What is 7 % 2 || 7 % 2 = 1
+Who is the greater of C++? Bjarne Stroustup
+What I the capital of Mexico? || Mexico city
+What time is London based of of on UTC || UTC  + 0
+What is the capital of the USA? || Washington DC
+What is 10 squared? || 100
+What is 10 DIV 3 || 3
+What is the square root of 64 ? || 8
+What is one of the most famous foods in America? || The hamburger
+What is a GUI? || Graphical User Interface
+What is the biggest park in London? || Hyde Park
+What is the biggest city in Scotland? || Glasgow.
+What is the name of the creator of this app? || Robert
+What is the most popular type of chocolate in the UK? || Dairy Milk
+What is the second biggest city in England? || Birmingham
+What tastes better Pepsi or coca cola? || Pepsi
+What is the capital of Morocco? || Rabbat
+What is the most popular drink in the world? || Water!
+What drink are the British famous for? || tea
+What is the best GUI framework in c++? || ImGuiName a popular functional programming langauge || Haskell
+What is the capital city of Argentina? || Buenos aires
+Name a popular game engine || Unreal Engine
+Name a popular programming langauge for Windows development || C#
+Name a company that Elon Musk co-founded || Nueralink
+Name a popular programming course website || Udemy
+Name another popular programming course website || Coursera
+Name a popular mobile gaming corporation? || supercell
+Name one of supercell's popular games || Hayday
+What is a popular gaming console? || Xbox
+What major company led to the downfall of blockbusters? || Netflix
+What is the slowest commercial high speed train in the UK? GWR
+What does D of E stamd for? Duke of Edinburgh.
+What are the external dependencies of this repository? || ImGui and Asio.
+What is a popular video sharing platform? || Youtube.
+What is capital of Austria? || Vienna
+What does GNI stand for? || Gross National Income
+What is a popular framework used for 3d objects in Javascript || Three.js
+What framework made by google allows you to develop apps for apple and android using the same codebase? || Flutter
+What is the capital of Croatia || Zagreb
+What is the capital of Serbia || Belgrade
+What is hello in spanish? || hola
+What is hello in German? || halo
+What is hello in Russian? || privet
+What is the capital of Russia? || Moscow
+What is the capital of Peru? || Lima
+How long did it take to make Javascript? || 10 days
+Who is the creator of Javascript? || Brendan Eich
+Who created the R language? || Ross Ihaka and Robert Gentleman
+What language can be used to make Android apps? || Java
+What is the definition of an ionic bond? || The electrostatic attraction between a 2 oppositly charged ions.
+What is the STL short for? || Standard Template Library
+What is the header file for std::pair? || utility
+What is the header file for std::vector? || vector
+What is the header file for std::find? || algorithm
+What is the header file for std::cout? || iostream
+What is the header file for std::array? || array
+What is the header file for std::map? || map
+What is the header file for std::size_t || cstddef
+What is the header file for std::chrono || chrono
+What is the header file for std::string || string
+What is the header file for std::cin || iostream
+What language is tkinter written in? || Python
+What is flask written in? || Python
+Where is St.Ives? || Cornwall
+what animal is this word rearranged: leas? ||  seal
+What is simplinc? || a simple computer interface.
+Where can you buy simplinc? || simplinc.myshopify.com
+Why is simplinc called simplinc? || because it is a simple interface for a computer
+What was simplinc developed with? || electron js
+How much is simplinc? || 4.99
